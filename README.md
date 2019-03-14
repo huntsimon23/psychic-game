@@ -4,7 +4,7 @@ Thanks for playing this game!  I don't believe in psyichics, but this is a fun w
 
 To play, simply press an alphabet key on your keyboard once the page is loaded.  The computer has randomly chosen an alphabet character as well, and you get 9 tries to guess the rught one.  An alert will let you know when you've won or lost, and the page will keep tally of your score.  
 
-If you'd liek to see some of my other peojects, check them out on my portfolio site: 
+If you'd liek to see some of my other projects, check them out on my portfolio site: 
 
 https://huntsimon23.github.io/Basic-Portfolio/portfolio.html
 
