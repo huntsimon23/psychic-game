@@ -1,3 +1,6 @@
+# Deployed project
+https://huntsimon23.github.io/psychic-game/
+
 # psychic-game
 
 Thanks for playing this game!  I don't believe in psyichics, but this is a fun way to learn how the user input can be used to interact with the html page via logic in javascript.  This is my first ever javascript project and I did it in about 6 hours.  I will get faster with time.
